@@ -1,4 +1,4 @@
-const name="hello";
+export const name="hello";
 
 console.log(name);
 
