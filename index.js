@@ -1,5 +1,5 @@
-const demo=()=>{
-   return ['1','2','3']}
-demo()
-module.export= demo;
+function get() {
+  console.log("Helooooo..............");
+}
 
+module.export =get()
