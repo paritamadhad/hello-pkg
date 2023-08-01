@@ -1,6 +1,5 @@
 const demo=()=>{
-    console.log("hello");
-}
+   return ['1','2','3']}
 demo()
 module.export= demo;
 
